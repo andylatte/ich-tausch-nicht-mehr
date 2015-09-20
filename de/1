@@ -1,1 +1,0 @@
-artikel 1
