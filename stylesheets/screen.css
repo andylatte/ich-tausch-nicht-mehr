@@ -118,6 +118,14 @@ div.shell {
   margin: 0 auto;
 }
 
+div.big_shell{
+  display: block;
+  width: 780px;
+  margin: 0 auto; 
+}
+
+
+
 a#forkme_banner {
   position: absolute;
   top: 0;
